@@ -12,6 +12,7 @@ author:
   fullname: Jakob Sablowski
   github: JSablowski
   twitter: JSablowski
+  researchgate: Jakob_Sablowski
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
@@ -27,4 +28,4 @@ exclude: ["README.md", "README.html"]
 highlighter: null
 markdown: kramdown
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-tactile   # any github theme preset - is overwritten by files in repo
