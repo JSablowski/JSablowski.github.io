@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+subtitle: Current research topics.
 permalink: /research/
 ---
 
