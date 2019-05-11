@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Jakob Sablowski"
+  avatar : "/assets/images/jakob-sablowski.jpg"
+  bio    : "PhD student researching dropwise condensation at TU Dresden."
   links:
     - label: "ResearchGate"
       icon: "fas fa-fw fa-link"
