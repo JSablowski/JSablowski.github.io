@@ -7,6 +7,3 @@ I'm a researcher/PhD student at the TU Dresden [Institute of Process Engineering
 As a researcher, I have worked on projects about dropwise condensation of water/steam, fouling resistant heat exchanger surfaces, and energy optimization of industrial processes.
 
 My current research project explores dropwise condensation of non-aqueous fluids. It is based on functionalized surfaces described in my latest paper: [Electrodeposited metal-organic framework films as self-assembled hierarchically superstructured supports for stable omniphobic surface coatings](https://www.nature.com/articles/s41598-018-33542-4). 
-
-You can reach me on [Twitter](https://twitter.com/JSablowski/) or via e-mail: [jsablowski@mailbox.org](mailto:jsablowski@mailbox.org).
-
