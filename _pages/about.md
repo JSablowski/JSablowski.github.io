@@ -2,7 +2,11 @@
 permalink: /about/
 title: "About"
 ---
+I'm a researcher/PhD student at the TU Dresden [Institute of Process Engineering and Environmental Technology](https://tu-dresden.de/ing/maschinenwesen/ifvu). My research is focused on enhancing heat transfer via functionalized surfaces with special wettability. 
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+As a researcher, I have worked on projects about dropwise condensation of water/steam, fouling resistant heat exchanger surfaces, and energy optimization of industrial processes.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My current research project explores dropwise condensation of non-aqueous fluids. It is based on functionalized surfaces described in my latest paper: [Electrodeposited metal-organic framework films as self-assembled hierarchically superstructured supports for stable omniphobic surface coatings](https://www.nature.com/articles/s41598-018-33542-4). 
+
+You can reach me on [Twitter](https://twitter.com/JSablowski/) or via e-mail: [jsablowski@mailbox.org](mailto:jsablowski@mailbox.org).
+
