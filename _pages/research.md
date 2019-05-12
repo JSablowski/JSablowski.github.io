@@ -1,5 +1,11 @@
 ---
 title: "Research"
+layout: category
 permalink: /research/
+taxonomy: Publications
+entries_layout: grid
+classes: wide
 ---
-Coming soon... In the meantime, have a look at the [project page](https://www.researchgate.net/project/Dropwise-condensation-of-low-surface-tension-fluids) on ResearchGate for information about my current dropwise condensation research project.
+My current research project is about enhancing the condensation heat transfer of non-aqueous fluids. Please have a look at the [project page](https://www.researchgate.net/project/Dropwise-condensation-of-low-surface-tension-fluids) on ResearchGate for more information.
+
+## Publications
