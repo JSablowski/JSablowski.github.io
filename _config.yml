@@ -61,23 +61,23 @@ author:
   bio    : "PhD student researching dropwise condensation at TU Dresden."
   links:
     - label: "ResearchGate"
-      icon: "ai ai-fw ai-researchgate"
+      icon: "ai ai-fw ai-researchgate-square"
       url: "https://www.researchgate.net/profile/Jakob_Sablowski"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jsablowski"
     - label: "ORCID"
-      icon: "ai ai-fw ai-orcid"
+      icon: "ai ai-fw ai-orcid-square"
       url: "https://orcid.org/0000-0002-9530-9005"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github-square"
       url: "https://github.com/jsablowski"
 
 
 footer:
   links:
     - label: "ResearchGate"
-      icon: "ai ai-fw ai-researchgate"
+      icon: "ai ai-fw ai-researchgate-square"
       url: "https://www.researchgate.net/profile/Jakob_Sablowski"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
