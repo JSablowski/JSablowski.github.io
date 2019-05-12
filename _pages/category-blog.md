@@ -1,8 +1,6 @@
 ---
 title: Blog
 layout: category
-permalink: /categories/blog/
+permalink: /blog/
 taxonomy: Blog
 ---
-
-Sample post listing for the category `Blog`.
