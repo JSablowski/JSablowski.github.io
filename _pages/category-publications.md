@@ -1,6 +1,6 @@
 ---
 title: Publications
 layout: category
-permalink: /categories/publications/
+permalink: /publications/
 taxonomy: Publications
 ---
