@@ -4,6 +4,8 @@ last_modified_at: 2019-05-12T18:00:02+02:00
 read_time: false
 categories:
   - Publications
+header:
+  teaser: /assets/blog/CETdropwise/fig2.jpg
 ---
 
 Jakob Sablowski, Simon Unz, Michael Beckmann. 2017. *Chemical Engineering & Technology*. DOI: [10.1002/ceat.201700160](https://doi.org/10.1002/ceat.201700160)
