@@ -1,11 +1,14 @@
 ---
 title:  "Electrodeposited metal-organic framework films as self-assembled hierarchically superstructured supports for stable omniphobic surface coatings"
 last_modified_at: 2019-05-12T18:00:02+02:00
+read_time: false
 categories:
   - Publications
 ---
 
 Jakob Sablowski, Julia Linnemann, Simone Hempel, Volker Hoffmann, Simon Unz, Michael Beckmann & Lars Giebeler. 2018. *Scientific Reports*. DOI: [10.1038/s41598-018-33542-4](https://doi.org/10.1038/s41598-018-33542-4)
+
+Here we investigate the omniphobic properties of lubricant‐infused MOF surfaces.
 
 ![img](/assets/blog/SciRepMOF/fig1.png)
 
