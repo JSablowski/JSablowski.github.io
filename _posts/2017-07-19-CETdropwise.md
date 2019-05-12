@@ -10,7 +10,7 @@ Jakob Sablowski, Simon Unz, Michael Beckmann. 2017. *Chemical Engineering & Tech
 
 This review provides an overview on emerging approaches for surface functionalization and the corresponding wetting properties that promote dropwise condensation.
 
-![img](/assets/blog/CETdropwise/fig2.jpg)
+![img](/assets/blog/CETdropwise/fig2.jpg){: .align-center}
 
 ## Abstract
 
