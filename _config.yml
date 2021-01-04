@@ -27,7 +27,7 @@ search                  : true
 
 # Build settings
 markdown                : kramdown
-remote_theme            : mmistakes/minimal-mistakes
+remote_theme            : mmistakes/minimal-mistakes@4.19.3
 repository              : "jsablowski/JSablowski.github.io"
 # Outputting
 permalink               : /:categories/:title/
