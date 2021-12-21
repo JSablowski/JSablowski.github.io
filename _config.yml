@@ -16,7 +16,7 @@
 locale                  : "en-US"
 title                   : "dropwise"
 masthead_title          : "Home"
-description             : "A personal science blog about dropwise condensation research, thermal engineering and open science."
+description             : "A personal research blog about measurement systems, thermal engineering and open science."
 name                    : "Jakob Sablowski"   
 email                   : jsablowski@mailbox.org
 twitter_username        : JSablowski
@@ -31,9 +31,9 @@ remote_theme            : mmistakes/minimal-mistakes@4.19.3
 repository              : "jsablowski/JSablowski.github.io"
 # Outputting
 permalink               : /:categories/:title/
-paginate                : 5 # amount of posts to show
+paginate                : 5             # amount of posts to show
 paginate_path           : /page:num/
-timezone                : Europe/Berlin  # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone                : Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # social sharing
 twitter:
@@ -46,19 +46,20 @@ social:
     - "https://twitter.com/jsablowski"
     - "https://www.researchgate.net/profile/Jakob_Sablowski"
     - "https://orcid.org/0000-0002-9530-9005"
+    - "https://scholar.google.com/citations?user=kI3xx9EAAAAJ"
     - "https://github.com/jsablowski"
 
 
 author:
   name                  : "Jakob Sablowski"
   avatar                : "/assets/images/jakob-sablowski.jpg"
-  bio                   : "PhD student researching dropwise condensation at TU Dresden."
+  bio                   : "Researcher at MSE Lab / TU Freiberg."
   links:
-    - label             : "TU Dresden"
+    - label             : "MSE Lab"
       icon              : "fas fa-fw fa-university"
-      url               : "https://tu-dresden.de/ing/maschinenwesen/ifvu"  
+      url               : "https://tu-freiberg.de/fakult4/et/mse-lab"  
     - label             : "ResearchGate"
-      icon              : "ai ai-fw ai-researchgate-square"
+      icon              : "ai ai-fw ai-researchgate"
       url               : "https://www.researchgate.net/profile/Jakob_Sablowski"
     - label             : "Twitter"
       icon              : "fab fa-fw fa-twitter"
@@ -66,6 +67,9 @@ author:
     - label             : "ORCID"
       icon              : "ai ai-fw ai-orcid"
       url               : "https://orcid.org/0000-0002-9530-9005"
+    - label             : "Google Scholar"
+      icon              : "ai ai-fw ai-google-scholar"
+      url               : "https://scholar.google.com/citations?user=kI3xx9EAAAAJ"         
     - label             : "Publons"
       icon              : "ai ai-fw ai-publons"
       url               : "https://publons.com/researcher/1597864/jakob-sablowski/"      
